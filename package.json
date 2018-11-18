@@ -1,0 +1,28 @@
+{
+  "name": "@aykutay/unique-id-generator",
+  "version": "0.1.0",
+  "description": "unique id generator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmetaykutay/unique-id-generator.git"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "unique",
+    "id",
+    "generator"
+  ],
+  "author": "Ahmet Aykut Ay",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmetaykutay/unique-id-generator/issues"
+  },
+  "homepage": "https://github.com/ahmetaykutay/unique-id-generator#readme"
+}
