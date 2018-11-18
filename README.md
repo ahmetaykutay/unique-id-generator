@@ -1,3 +1,3 @@
-# unique id generator
+# Unique Id Generator
 
-creates unique id
+id is string

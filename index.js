@@ -1,1 +1,1 @@
-module.exports = require('./lib/idGenerator');
+module.exports = require('./lib/generator');

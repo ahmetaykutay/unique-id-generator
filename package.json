@@ -1,6 +1,6 @@
 {
   "name": "@aykutay/unique-id-generator",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "unique id generator",
   "main": "index.js",
   "repository": {
@@ -12,7 +12,8 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./tests/index.test",
+    "prepublish": "npm test"
   },
   "keywords": [
     "unique",
