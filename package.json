@@ -1,6 +1,6 @@
 {
   "name": "@aykutay/unique-id-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "unique id generator",
   "main": "index.js",
   "repository": {

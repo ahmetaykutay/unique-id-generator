@@ -18,4 +18,4 @@ for (let i = 0; i < 100; i++) {
   id1 = id2;
 }
 
-console.info('Test are finished');
+console.info('Tests are finished');
